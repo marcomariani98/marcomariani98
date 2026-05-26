@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Marco Mariani 👋
 
-<!--
-**marcomariani98/marcomariani98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about computer science, software development, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+Despite the challenges related to my illness, I continue to pursue my passion for technology, development, and AI with determination. I strongly believe in continuous learning and in the power of software to create useful, accessible, and innovative tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### ⚙️ Programming Languages
+C, C++, C#, Java, JavaScript, Python, Kotlin
+
+### 🌐 Web Development
+Node.js, Angular, React, Vue.js, PostgreSQL
+
+### 📊 Data Science & Machine Learning
+Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch
+
+## 🚀 Projects
+
+- [Clustering Playground](https://marcomariani98.github.io/clustering-playground/)  
+  An interactive visualization of clustering algorithms.
+
+## 🔗 Useful Links
+
+- [GitHub Profile](https://github.com/marcomariani98)
+- [Clustering Playground Source Code](https://github.com/marcomariani98/clustering-playground)
